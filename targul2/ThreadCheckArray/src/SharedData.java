@@ -10,7 +10,7 @@ public class SharedData
 	
 	/**
 	 * @param array ArrayList with numbers of type Integers.
-	 * @param b Indicates the required sum of two numbers in array.
+	 * @param Indicates the required sum of two numbers in array.
 	 * <br>Initializing the SharedData object with the given array and b values.
 	 */
 	public SharedData(ArrayList<Integer> array, int b) 
